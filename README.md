@@ -1,7 +1,7 @@
 TASK SUBMISSION The tasks submitted are:
 
-TIC TAC TOE
+1.TIC TAC TOE
 
-Recommendation system
+2.Recommendation system
 
-CHATBOT
+3.CHATBOT
